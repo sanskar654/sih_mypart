@@ -1,10 +1,6 @@
-__pycache__/
-*.py[cod]
-.env
-*.db
-.venv/
-venv/
-env/
 node_modules/
-.DS_Store
-Thumbs.db
+.env
+backend/uploads/original/*
+backend/uploads/enhanced/*
+!backend/uploads/original/.gitkeep
+!backend/uploads/enhanced/.gitkeep
